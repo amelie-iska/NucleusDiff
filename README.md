@@ -1,6 +1,6 @@
 # NucleusDiff: Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design
 
-This repository is the official implementation of Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design (Arxiv 2024). 
+This repository is a copy of the official implementation of Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design (Arxiv 2024). 
 
 [[Paper]](https://arxiv.org/abs/2409.10584) [[Project Page]](https://yanliang3612.github.io/NucleusDiff/)
 
